@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Gaocarri/kael-ui/issues"
   },
-  "homepage": "https://github.com/Gaocarri/kael-ui#readme"
+  "homepage": "https://github.com/Gaocarri/kael-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
