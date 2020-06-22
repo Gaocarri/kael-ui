@@ -1,0 +1,23 @@
+{
+  "name": "kaelui",
+  "version": "0.0.1",
+  "description": "a Vue UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaocarri/kael-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "GaoCarri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaocarri/kael-ui/issues"
+  },
+  "homepage": "https://github.com/Gaocarri/kael-ui#readme"
+}
